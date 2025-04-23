@@ -1,0 +1,6 @@
+resources:
+- cluster-api-cleaner-vsphere.yaml
+- cluster-api-ipam-provider-in-cluster.yaml
+- cluster-api-provider-vsphere.yaml
+- image-distribution-operator.yaml
+- konfiguration.yaml
