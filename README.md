@@ -2,4 +2,4 @@
 
 # vsphere-addons-app-collection
 
-This is an addon collection to add CAPV specific controllers to other providers to support multi-provider use cases.
+This is an addon collection to add CAPV specific controllers to other providers to support multi-provider use cases (except AWS which is handled by [vsphere-aws-addons-app-collection](https://github.com/giantswarm/vsphere-aws-addons-app-collection/).
