@@ -1,4 +1,3 @@
 resources:
 - cluster-api-cleaner-vsphere.yaml
-- cluster-api-provider-vsphere.yaml
 - konfiguration.v2.yaml
